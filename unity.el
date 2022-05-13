@@ -46,7 +46,7 @@
   :group 'unity)
 
 (defcustom unity-vcvarsall-file
-  "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/Build/vcvarsall.bat"
+  "D:/bin/msbuild/VC/Auxiliary/Build/vcvarsall.bat"
   "Location of vcvarsall.bat on Windows.
 
 See https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line."
